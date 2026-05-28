@@ -1,4 +1,4 @@
-# Catálogo em C++ (POO)
+# Catálogo de filmes em C++ (POO)
 
 **Nome:** Kaio Vitor
 **Matrícula:** 20250019634
