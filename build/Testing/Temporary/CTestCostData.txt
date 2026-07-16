@@ -1,0 +1,4 @@
+Q1: Cadeia de destruicao derivada -> base 1 0.0227487
+Q2: Polimorfismo dinamico com calcular_nota() 1 0.0194902
+Q3: Interface pura Exibivel via referencia 1 0.0345915
+---

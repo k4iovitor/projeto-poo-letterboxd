@@ -1,0 +1,63 @@
+Start testing: Jul 16 11:08 -03
+----------------------------------------------------------
+1/3 Testing: Q1: Cadeia de destruicao derivada -> base
+1/3 Test: Q1: Cadeia de destruicao derivada -> base
+Command: "/home/kaiolima/Documentos/3º Período/POO/projeto/build/testes" "Q1: Cadeia de destruicao derivada -> base"
+Directory: /home/kaiolima/Documentos/3º Período/POO/projeto/build
+"Q1: Cadeia de destruicao derivada -> base" start time: Jul 16 11:08 -03
+Output:
+----------------------------------------------------------
+Filters: "Q1: Cadeia de destruicao derivada -> base"
+Randomness seeded to: 4044264025
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Q1: Cadeia de destruicao derivada -> base" end time: Jul 16 11:08 -03
+"Q1: Cadeia de destruicao derivada -> base" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: Q2: Polimorfismo dinamico com calcular_nota()
+2/3 Test: Q2: Polimorfismo dinamico com calcular_nota()
+Command: "/home/kaiolima/Documentos/3º Período/POO/projeto/build/testes" "Q2: Polimorfismo dinamico com calcular_nota()"
+Directory: /home/kaiolima/Documentos/3º Período/POO/projeto/build
+"Q2: Polimorfismo dinamico com calcular_nota()" start time: Jul 16 11:08 -03
+Output:
+----------------------------------------------------------
+Filters: "Q2: Polimorfismo dinamico com calcular_nota()"
+Randomness seeded to: 1075725848
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Q2: Polimorfismo dinamico com calcular_nota()" end time: Jul 16 11:08 -03
+"Q2: Polimorfismo dinamico com calcular_nota()" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: Q3: Interface pura Exibivel via referencia
+3/3 Test: Q3: Interface pura Exibivel via referencia
+Command: "/home/kaiolima/Documentos/3º Período/POO/projeto/build/testes" "Q3: Interface pura Exibivel via referencia"
+Directory: /home/kaiolima/Documentos/3º Período/POO/projeto/build
+"Q3: Interface pura Exibivel via referencia" start time: Jul 16 11:08 -03
+Output:
+----------------------------------------------------------
+Filters: "Q3: Interface pura Exibivel via referencia"
+Randomness seeded to: 3205663997
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Q3: Interface pura Exibivel via referencia" end time: Jul 16 11:08 -03
+"Q3: Interface pura Exibivel via referencia" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 16 11:08 -03

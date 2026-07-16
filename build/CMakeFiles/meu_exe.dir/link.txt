@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/meu_exe.dir/src/acervo/filme.cpp.o CMakeFiles/meu_exe.dir/src/acervo/item_acervo.cpp.o CMakeFiles/meu_exe.dir/src/acervo/serie.cpp.o CMakeFiles/meu_exe.dir/src/avaliacao/avaliacao.cpp.o CMakeFiles/meu_exe.dir/src/avaliacao/lista_avaliacoes.cpp.o CMakeFiles/meu_exe.dir/src/main.cpp.o CMakeFiles/meu_exe.dir/src/usuario/usuario.cpp.o -o meu_exe 

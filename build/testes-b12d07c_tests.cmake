@@ -1,0 +1,7 @@
+add_test( [==[Q1: Cadeia de destruicao derivada -> base]==] [==[/home/kaiolima/Documentos/3º Período/POO/projeto/build/testes]==] [==[Q1: Cadeia de destruicao derivada -> base]==]  )
+set_tests_properties( [==[Q1: Cadeia de destruicao derivada -> base]==] PROPERTIES WORKING_DIRECTORY [==[/home/kaiolima/Documentos/3º Período/POO/projeto/build]==])
+add_test( [==[Q2: Polimorfismo dinamico com calcular_nota()]==] [==[/home/kaiolima/Documentos/3º Período/POO/projeto/build/testes]==] [==[Q2: Polimorfismo dinamico com calcular_nota()]==]  )
+set_tests_properties( [==[Q2: Polimorfismo dinamico com calcular_nota()]==] PROPERTIES WORKING_DIRECTORY [==[/home/kaiolima/Documentos/3º Período/POO/projeto/build]==])
+add_test( [==[Q3: Interface pura Exibivel via referencia]==] [==[/home/kaiolima/Documentos/3º Período/POO/projeto/build/testes]==] [==[Q3: Interface pura Exibivel via referencia]==]  )
+set_tests_properties( [==[Q3: Interface pura Exibivel via referencia]==] PROPERTIES WORKING_DIRECTORY [==[/home/kaiolima/Documentos/3º Período/POO/projeto/build]==])
+set( testes_TESTS [==[Q1: Cadeia de destruicao derivada -> base]==] [==[Q2: Polimorfismo dinamico com calcular_nota()]==] [==[Q3: Interface pura Exibivel via referencia]==])
